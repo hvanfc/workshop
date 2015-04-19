@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Barry\'s Beer Bar Card Emulator</string>
+
+    <string name="service_name">BarrysBeerBarCardEmulationService</string>
+    <string name="card_title">Barry\'s Beer Bar Card</string>
+    <string name="card_holder">Card holder name</string>
+    <string name="action_settings">Settings</string>
+</resources>
