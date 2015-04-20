@@ -17,7 +17,7 @@ TODOs in this exercise:
 - AndroidManifest.xml
 
 In BarrysBeerBar you will need to:
-- Updatenfc_tech_filter.xml, you need to add an extra tech list for the IsoDep format. HCE only supports IsoDep.
+- Update nfc_tech_filter.xml, you need to add an extra tech list for the IsoDep format. HCE only supports IsoDep.
 - Add a method for reading IsoDep tags.
 	- connect to the IsoDep tag
 	- create a command ADPU, using the same AID that you will use in BarrysBeerBarCard
