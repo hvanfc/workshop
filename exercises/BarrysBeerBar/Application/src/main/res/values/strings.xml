@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Barry\'s Beer Bar</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_take_order">TakeOrder</string>
+    <string name="takeOrder">Take order</string>
+    <string name="register">Register Customer</string>
+    <string name="action_settings">Settings</string>
+</resources>
