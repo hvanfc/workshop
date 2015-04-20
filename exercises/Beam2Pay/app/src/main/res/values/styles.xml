@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="labelStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#558899</item>
+    </style>
+    <style name="amountStyle">
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="inputAmountStyle">
+        <item name="android:textSize">25sp</item>
+    </style>
+
+</resources>
